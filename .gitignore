@@ -1,0 +1,4 @@
+.virtual_documents/
+*.pyc
+__pycache__/
+.env/

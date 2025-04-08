@@ -37,8 +37,8 @@ This repository contains my hands-on practice, assignments, and experiments whil
 ## 📬 Contact
 Feel free to connect or suggest improvements!
 
-> ✉️ your-email@example.com  
-> 🌐 your-linkedin-or-portfolio-link
+> ✉️ viveksonkar257@gmail.com  
+> 🌐 linkedin.com/in/vivek-kumar-sonkar-302b9b15b
 
 ---
 

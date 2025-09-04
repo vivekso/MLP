@@ -1,0 +1,10 @@
+2025-09-04 22:19:24,187 - my_logger - DEBUG - This is a debug message
+2025-09-04 22:19:24,190 - my_logger - INFO - This is an info message
+2025-09-04 22:19:24,191 - my_logger - WARNING - This is a warning message
+2025-09-04 22:19:24,193 - my_logger - ERROR - This is an error message
+2025-09-04 22:19:24,194 - my_logger - CRITICAL - This is a critical message
+2025-09-04 22:20:01,124 - my_logger - DEBUG - this is debug message
+2025-09-04 22:20:01,125 - my_logger - WARNING - this is warning message
+2025-09-04 22:20:01,125 - my_logger - CRITICAL - this is critical message that will stop your application
+2025-09-04 22:20:01,126 - my_logger - ERROR - this is error message
+2025-09-04 22:20:01,126 - my_logger - INFO - this is info message
